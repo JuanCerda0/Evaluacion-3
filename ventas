@@ -1,0 +1,29 @@
+[
+    {
+        "RUT": "22121878-7",
+        "Nombre": "Juan",
+        "Apellido": "Cerda",
+        "Tipo cliente": "vespertino",
+        "Tipo Pizza": "Pepperoni",
+        "Tama\u00f1o Pizza": "Familiar",
+        "Precio Pizza": 13.0
+    },
+    {
+        "RUT": "22121878-7",
+        "Nombre": "Juan",
+        "Apellido": "Cerda",
+        "Tipo cliente": "vespertino",
+        "Tipo Pizza": "Cuatro Quesos",
+        "Tama\u00f1o Pizza": "Familia",
+        "Precio Pizza": 12.0
+    },
+    {
+        "RUT": "11222333-0",
+        "Nombre": "Pepe",
+        "Apellido": "Alcachofa",
+        "Tipo cliente": "diurno",
+        "Tipo Pizza": "Pepperoni",
+        "Tama\u00f1o Pizza": "Mediana",
+        "Precio Pizza": 10.0
+    }
+]
